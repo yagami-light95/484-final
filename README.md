@@ -2,8 +2,11 @@
 # Introduce
 This is a final project of 484. This project is finished by JUN ZHAO and YING LU. This project aims at designing a cnn network to recognize the captcha image.
 # Training
+The training process:![image](https://github.com/yagami-light95/484-final/blob/main/image/training.jpg)
+
+Training results:![image](https://github.com/yagami-light95/484-final/blob/main/image/result.png)
 # Result
-At first we choose a image we want our model to recognize, and the run our model our model will print the result it predict.
+At first we choose a image we want our model to recognize, and then run our model, our model will print the result it predict.
 
 For example, the image we want to predict is:![image](https://github.com/yagami-light95/484-final/blob/main/image/4085.jpg)
 
