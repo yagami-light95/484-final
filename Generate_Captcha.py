@@ -18,14 +18,14 @@ class Config(object):
     train_folder = 'train'
     validation_folder = 'validation'
     tensorboard_folder = 'tensorboard'  # the log path of tensorboard
-    saver_folder = 'checkpoints'
+    saver_folder = 'checkpoints' 
 
     alpha = 1e-3  # learning
     Epoch = 100  # number of epoch
     batch_size = 64  # batchsize
     keep_prob = 0.5  # dropout
     print_per_batch = 20  # print results every 20 times
-    save_per_batch = 20
+    save_per_batch = 20  # Write to tensorboard every 20 times
 
 
 class Generate:
