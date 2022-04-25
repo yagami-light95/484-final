@@ -4,7 +4,7 @@ This is a final project of 484. This project is finished by JUN ZHAO and YING LU
 # Training
 The training process:![image](https://github.com/yagami-light95/484-final/blob/main/image/training.jpg)
 
-Training results:![image](https://github.com/yagami-light95/484-final/blob/main/image/result.png)
+Training results:![image](https://github.com/yagami-light95/484-final/blob/main/image/finish%20training.png)
 # Result
 At first we choose a image we want our model to recognize, and then run our model, our model will print the result it predict.
 
