@@ -7,5 +7,5 @@ At first we choose a image we want our model to recognize, and the run our model
 
 For example, the image we want to predict is:![image](https://github.com/yagami-light95/484-final/blob/main/image/4085.jpg)
 
-And the result our model print is ![image](https://github.com/yagami-light95/484-final/blob/main/image/result.png)
+And the result our model print is :![image](https://github.com/yagami-light95/484-final/blob/main/image/result.png)
 
