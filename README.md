@@ -1,6 +1,4 @@
 # 484-final
-# Notice!!!
-Since the github can only receive 1000 images in one folder, so we upload a zip for our whole project, you can download it.
 # Introduce
 This is a final project of 484. This project is finished by JUN ZHAO and YING LU. This project aims at designing a cnn network to recognize the captcha image.
 # Training
